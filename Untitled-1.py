@@ -1,0 +1,2 @@
+class mag:
+    pass
